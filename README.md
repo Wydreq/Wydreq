@@ -3,8 +3,7 @@
 About me
 Hi! My name is Bartłomiej and I'm from Kielce, Poland. I study Computer Science at Kielce University of Technology.
 
-- 🔭 I’m currently working on dating app called [Matcher](https://github.com/Wronqa/Matcher).
-- 🌱 I’m currently learning React router.
+- 🔭 I’m currently working on dating app called [GetInIT](https://github.com/Wydreq/GetInIT).
 - 📫 How to reach me: bartlomiej.wydrzycki@gmail.com
 
 Technologies:<br></br>
