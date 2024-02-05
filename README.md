@@ -4,7 +4,6 @@ About me
 Hi! My name is Bartłomiej and I'm from Kielce, Poland. I study Computer Science at Kielce University of Technology.
 Working as Junior Frontend Developer at Onwelo
 
-- 🔭 I’m currently learning angular.
 - 📫 How to reach me: bartlomiej.wydrzycki@gmail.com
 
 Technologies:<br></br>
